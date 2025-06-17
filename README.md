@@ -3,17 +3,17 @@ Project Overview
 This project presents an end-to-end Data Analysis solution using SQL and Power BI, focusing on the sales
 data of Pizza Hut. It explores customer behavior, pizza popularity, revenue trends, and sales distribution to
 provide actionable insights.
-**Objectives**
+- **objectives**
 - Analyze sales performance of different pizza types.
 - Identify the most and least ordered pizzas.
 - Evaluate revenue contribution by each pizza.
 - Discover popular pizza sizes and pricing strategies.
 - Present the insights through an interactive Power BI dashboard.
-**Tools & Technologies**
+- **Tools & Technologies**
 - SQL: Data extraction, cleaning, and aggregation
 - Power BI: Data visualization and dashboard creation
 - Microsoft Excel: Preliminary data exploration (if applicable)
-**Key Insights from Dashboard**
+- **Key Insights from Dashboard**
 - Top Ordered Pizzas: Classic Deluxe Pizza, Barbecue Chicken, Hawaiian, etc.
 - Popular Pizza Size: Size L (Large) dominates the order count.
 - Total Orders: 21K+
@@ -28,7 +28,7 @@ provide actionable insights.
 Pizza Hut Sales Analysis Project
  - Chicken: 25%
  - Supreme: 18.75%
-**Datasets Used**
+- **Datasets Used**
 - common pizzas size
 - highest price pizzas
 - most ordered pizza
@@ -36,13 +36,13 @@ Pizza Hut Sales Analysis Project
 - total orders pizza
 - total quantity of each pizza
 - total revenue
-**Dashboard Features**
+- **Dashboard Features**
 - Bar charts for pizza quantity and order sizes
 - Donut and pie charts for category and revenue distribution
 - Cards for key KPIs (Total Orders & Sales)
 - Comparative price visualizations
 - ![Screenshot (4)](https://github.com/user-attachments/assets/5e7504e6-2b04-49ff-8cc2-298f14777fb4)
-**Conclusion**
+- **Conclusion**
 This project demonstrates the ability to use SQL for data analysis and Power BI for storytelling with visuals. It
 shows how data-driven decisions can be made in a real business context like the food industry.
 Author
