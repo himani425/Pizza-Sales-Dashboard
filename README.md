@@ -1,4 +1,3 @@
-# Pizza-Sales-Dashboard
 Pizza Hut Sales Analysis Project
 Project Overview
 This project presents an end-to-end Data Analysis solution using SQL and Power BI, focusing on the sales
